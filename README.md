@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://henrique-oliveira-repository.web.app/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hernique33comiitei&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernique33comiitei&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" width="457em" src="https://github-readme-stats.vercel.app/api?username=hernique33comiitei&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="457em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernique33comiitei&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <br>
 <div display="inline-block">
