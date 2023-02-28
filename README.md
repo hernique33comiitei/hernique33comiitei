@@ -3,8 +3,7 @@
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hernique33comiitei&show_icons=true&theme=aura&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernique33comiitei&layout=compact&langs_count=7&theme=aura" />
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hernique33comiitei&theme=one-dark-pro)](https://git.io/streak-stats)
 </div>
 <br>
 <div display="inline-block" >
