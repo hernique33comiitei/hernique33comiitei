@@ -2,8 +2,8 @@
 
 <hr>
 
-<table>
-    <tr>
+<table style="border: none;">
+    <tr style="border: none;">
         <td style="border: none;" ><img src="http://github-readme-streak-stats.herokuapp.com?user=hernique33comiitei&theme=one-dark-pro" alt="GitHub Streak"></td>
         <td style="border: none;"><img height="150" src="https://64.media.tumblr.com/be9d87f930b15627b5ad127b8070be43/tumblr_inline_ptb0l9bs6r1r2xhmf_500.gif"  /></td>
     </tr>
@@ -36,5 +36,3 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-<hr>
