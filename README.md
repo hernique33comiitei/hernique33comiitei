@@ -1,16 +1,4 @@
-### Hi! my name is Henrique Oliveira, feel free to use my profile :)
-
-<div align="center">
-
-###
-
-  <img height="150" src="https://64.media.tumblr.com/be9d87f930b15627b5ad127b8070be43/tumblr_inline_ptb0l9bs6r1r2xhmf_500.gif"  />
-
-###
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hernique33comiitei&theme=one-dark-pro)](https://git.io/streak-stats)
-
-</div>
+<h2 align="left">Hi! my name is Henrique Oliveira, feel free to use my profile :)</h2>
 
 ###
 
@@ -44,8 +32,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/hernique33comiitei/hernique33comiitei/blob/output/snake.svg" alt="Snake animation" />
-
-###
+|                                                                                                                                             |                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hernique33comiitei&theme=one-dark-pro)](https://git.io/streak-stats) | <img height="150" src="https://64.media.tumblr.com/be9d87f930b15627b5ad127b8070be43/tumblr_inline_ptb0l9bs6r1r2xhmf_500.gif"  /> |
