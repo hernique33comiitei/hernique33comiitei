@@ -5,7 +5,7 @@ Feel free to explore my world
 ## MyProfile 💻
 
 
-<img align="right" width="400" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" />
+<img align="right" width="380" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" />
 
 ```jsx
 
