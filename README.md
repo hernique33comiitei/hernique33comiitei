@@ -35,7 +35,6 @@ const MyProfile = () => {
 
 ###
 
-
 <img width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernique33comiitei&theme=dracula&hide_langs_below=1" />
 
 <div align="center" >
@@ -57,6 +56,8 @@ const MyProfile = () => {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />      
 </div>
+
+###
 
 <hr>
 
