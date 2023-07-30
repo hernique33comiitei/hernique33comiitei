@@ -36,7 +36,7 @@ const MyProfile = () => {
 ###
 
 
-<img width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernique33comiitei&theme=dracula&hide_langs_below=1" />
+<img width="340" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernique33comiitei&theme=dracula&hide_langs_below=1" />
 
 <div align="center" >
   <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=hernique33comiitei&theme=one-dark-pro" alt="GitHub Streak" />
