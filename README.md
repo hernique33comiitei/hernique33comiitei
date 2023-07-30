@@ -1,13 +1,45 @@
-<h2 align="left">Hi! my name is Henrique Oliveira, feel free to use my profile :)</h2>
+# Hi guys 👋
+
+Feel free to explore my world
+
+## MyProfile 💻
 
 
+<img align="right" width="430" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" />
 
-<table style="border: none;" align="center">
-    <tr style="border: none;">
-        <td style="border: none;" ><img src="http://github-readme-streak-stats.herokuapp.com?user=hernique33comiitei&theme=one-dark-pro" alt="GitHub Streak"></td>
-        <td style="border: none;"><img height="150" src="https://64.media.tumblr.com/be9d87f930b15627b5ad127b8070be43/tumblr_inline_ptb0l9bs6r1r2xhmf_500.gif"  /></td>
-    </tr>
-</table>
+```jsx
+
+const MyProfile = () => {
+  const name = "Henrique de Oliveira Santos";
+  const acknowledgements = "Software Development";
+
+  const primarySkillset = "Some Skills";
+  const skills = ["React", "NextJs", "TypeScript", "Node.js"];
+
+  return (
+    <div>
+      <h1>{name}</h1>
+      <p>{acknowledgements}</p>
+      <h2>{primarySkillset}</h2>
+      <ul>
+        {skills.map((skill, index) => (
+          <li key={index}>{skill}</li>
+        ))}
+      </ul>
+    </div>
+  );
+};
+
+
+```
+
+###
+
+
+<div align="center" >
+  <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=hernique33comiitei&theme=one-dark-pro" alt="GitHub Streak" />
+</div>
+
 
 ###
 
@@ -22,8 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" width="42" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />      
-  
-    
 </div>
 
 <hr>
