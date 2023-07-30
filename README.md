@@ -57,9 +57,10 @@ const MyProfile = () => {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="42" alt="mysql logo"  />      
 </div>
 
-###
+<br>
 
 <hr>
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/henrique-oliveira-1639a924a/" target="_blank">
