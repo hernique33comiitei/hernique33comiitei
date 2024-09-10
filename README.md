@@ -4,9 +4,6 @@ Feel free to explore my world
 
 ## MyProfile 💻
 
-
-<img align="right" width="380" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" />
-
 ```jsx
 
 const MyProfile = () => {
@@ -34,8 +31,6 @@ const MyProfile = () => {
 ```
 
 ###
-
-<img width="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hernique33comiitei&theme=dracula&hide_langs_below=1" />
 
 <div align="center" >
   <img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=hernique33comiitei&theme=one-dark-pro" alt="GitHub Streak" />
